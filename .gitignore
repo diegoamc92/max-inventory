@@ -17,6 +17,6 @@
 
 # Dependency directories (remove the comment below to include it)
 .idea/
-tmp
+tmp/
 # Go workspace file
 go.work
